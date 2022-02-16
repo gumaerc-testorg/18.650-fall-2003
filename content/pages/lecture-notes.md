@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9e973d39-2888-b4a4-ede8-83f905ab52f6
 ---
@@ -183,7 +186,7 @@ Improving Estimators Using Sufficient Statistics, Rao-Blackwell Theorem
 {{< tdopen >}}
 Minimal Jointly Sufficient Statistics  
   
-χ2 Distribution
+χ{{< sup "2" >}} Distribution
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/lec13))

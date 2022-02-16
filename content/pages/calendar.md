@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: d808b789-5793-0e30-51a3-23ba52041ce5
 ---
@@ -183,7 +185,7 @@ Improving Estimators Using Sufficient Statistics, Rao-Blackwell Theorem
 {{< tdopen >}}
 Minimal Jointly Sufficient Statistics  
   
-χ2 Distribution
+χ{{< sup "2" >}} Distribution
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 5 out

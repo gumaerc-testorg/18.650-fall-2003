@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture outline.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-443-statistics-for-applications-fall-2003/00e12c661c000397458402ef2170031e_lec20.pdf
+file: /media/courses/18-443-statistics-for-applications-fall-2003/00e12c661c000397458402ef2170031e_lec20.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec20.pdf
 uid: 00e12c66-1c00-0397-4584-02ef2170031e
