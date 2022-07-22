@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-fall-2003/723669ac8f84f72e16d8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: home8.pdf
 uid: 723669ac-8f84-f72e-16d8-20a7f6ecf712
 ---
 Problem set.
-

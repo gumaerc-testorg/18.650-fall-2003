@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-fall-2003/be785cdd542b5ca61a47
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: home9.pdf
 uid: be785cdd-542b-5ca6-1a47-e8bc51fe161a
 ---
 Practice problem set.
-

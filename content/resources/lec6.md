@@ -5,6 +5,7 @@ file: /courses/18-443-statistics-for-applications-fall-2003/8d6532897b65d8838a0d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec6.pdf
 uid: 8d653289-7b65-d883-8a0d-2e5cf941af7c
 ---
 Lecture outline.
-
