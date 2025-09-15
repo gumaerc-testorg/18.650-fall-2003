@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Practice problem set.
-file: /courses/18-443-statistics-for-applications-fall-2003/be785cdd542b5ca61a47e8bc51fe161a_home9.pdf
+file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2003/be785cdd542b5ca61a47e8bc51fe161a_home9.pdf
+file_size: 26211
 file_type: application/pdf
 learning_resource_types:
 - Assignments

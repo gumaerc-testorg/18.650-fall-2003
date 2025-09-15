@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/18-443-statistics-for-applications-fall-2003/594da3ee916f43c7d7f484c8c5421cd6_home2.pdf
+file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2003/594da3ee916f43c7d7f484c8c5421cd6_home2.pdf
+file_size: 37033
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Lecture outline.
-file: /courses/18-443-statistics-for-applications-fall-2003/09890cdf58d8e0cda098c419df993705_lec25.pdf
+file: /ol-ocw-studio-app/courses/18-443-statistics-for-applications-fall-2003/09890cdf58d8e0cda098c419df993705_lec25.pdf
+file_size: 97572
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
